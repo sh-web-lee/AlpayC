@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlpayC&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=AlpayC&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
----
 [![](https://visitcount.itsvg.in/api?id=AlpayC&icon=1&color=12)](https://visitcount.itsvg.in)
 
+---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
