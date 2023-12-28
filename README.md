@@ -90,13 +90,13 @@
 [![Instor](https://github-readme-stats.vercel.app/api/pin/?username=AlpayC&repo=Instor&border_color=9DAAF2&bg_color=09131B&title_color=FF6A3D&text_color=FFFFFF&icon_color=9DAAF2)](https://github.com/AlpayC/Instor)
 [![Tasty](https://github-readme-stats.vercel.app/api/pin/?username=AlpayC&repo=Tasty&border_color=9DAAF2&bg_color=09131B&title_color=FF6A3D&text_color=FFFFFF&icon_color=9DAAF2)](https://github.com/AlpayC/Tasty)
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/AlpayC?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-9DAAF2?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
-<hr/>
-<br/>
+
+## My Stats
 
 <p align="center">
   <a href="https://github.com/AlpayC" >
@@ -118,3 +118,4 @@
 
 <!-- ![Alpay's Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlpayC&custom_title=Alpay's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=9DAAF2&line=9DAAF2&point=9DAAF2&area_color=FFFFFF&title_color=FFFFFF&area=true) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlpayC&custom_title=Alpay's%20GitHub%20Activity%20Graph&bg_color=09131B&color=9DAAF2&line=FF652F&point=9DAAF2&area_color=FF652F&title_color=FF652F&area=true" alt="Alpay's Graph" style="border: 1px solid #9DAAF2; border-radius: 6px;" />
+<a align="center" href="https://www.buymeacoffee.com/alpaycelikdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
