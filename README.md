@@ -29,7 +29,7 @@
  <a href="https://de.linkedin.com/in/alpay-celik" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AlpayC"/>
  </a>
- <a href="https://de.linkedin.com/in/alpay-celik" target="_blank">
+ <a href="https://discord.com/invite/TqvEDzEv" target="_blank">
   <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="AlpayC"/>
  </a>
 </p>
